@@ -49,6 +49,10 @@ img {
   width: 100%;
 }
 
+.hidden{
+  visibility: hidden;
+  height: 0;
+}
 /* navbar styles */
 .navbar {
   background-color: var(--primary-color);
